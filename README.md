@@ -35,7 +35,7 @@ You will also need the following libraries:
 - seaborn==0.11.2
 
 
-### Project Deliverables
+## Project Deliverables
 
 This project has two deliverables:
 
@@ -67,14 +67,24 @@ Assembled the scraped data into a Pandas DataFrame.
 
 Examined the data types that were currently associated with each column. If necessary, we cast (or converted) the data to the appropriate datetime, int, or float data types.
 
+<img src="/Images/Titles & Previews.jpg" width="800">
+
 Analyzed the dataset by using Pandas functions to answer the following questions:
 
--How many months exist on Mars?
--How many Martian (and not Earth) days worth of data exist in the scraped dataset?
--What are the coldest and the warmest months on Mars (at the location of Curiosity)?
--Which months have the lowest and the highest atmospheric pressure on Mars?
--About how many terrestrial (Earth) days exist in a Martian year?
--Exported the DataFrame to a CSV file.
+- How many months exist on Mars?
+- How many Martian (and not Earth) days worth of data exist in the scraped dataset?
+- What are the coldest and the warmest months on Mars (at the location of Curiosity)?
+- Which months have the lowest and the highest atmospheric pressure on Mars?
+- About how many terrestrial (Earth) days exist in a Martian year?
+- Exported the DataFrame to a CSV file.
+
+<img src="/Images/avg_temp_mars.png" width="500">
+
+
+<img src="/Images/avg_pa_mars.png" width="500">
+
+
+<img src="/Images/daily_temp_mars.png" width="800">
 
 ## Conclusion
 
@@ -103,14 +113,14 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 I would like to thank our bootcamp instructors for their guidance and support throughout this assignment.
 
 ## References
--Splinter: https://splinter.readthedocs.io/en/latest/
--BeautifulSoup: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
--Selenium: https://www.selenium.dev/documentation/en/
--ChromeDriver: https://sites.google.com/a/chromium.org/chromedriver/
--webdriver_manager: https://github.com/gunthercox/webdriver_manager
--Pandas: https://pandas.pydata.org/docs/
--Matplotlib: https://matplotlib.org/stable/contents.html
--Seaborn: https://seaborn.pydata.org/tutorial.html
+- Splinter: https://splinter.readthedocs.io/en/latest/
+- BeautifulSoup: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+- Selenium: https://www.selenium.dev/documentation/en/
+- ChromeDriver: https://sites.google.com/a/chromium.org/chromedriver/
+- webdriver_manager: https://github.com/gunthercox/webdriver_manager
+- Pandas: https://pandas.pydata.org/docs/
+- Matplotlib: https://matplotlib.org/stable/contents.html
+- Seaborn: https://seaborn.pydata.org/tutorial.html
 - University of Western Australia Data Analysis Bootcamp: https://bootcamp.ce.uwa.edu.au/data/
 
 
