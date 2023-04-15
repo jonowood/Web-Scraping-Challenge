@@ -1,9 +1,4 @@
-# Web-Scraping-Challenge
-UWA Bootcamp - Module 11 Web Scraping Challenge Submission
-
-
-
-![landing-page](/images/MIT-Mars-Plan-01.jpg)
+<img src="/Images/MIT-Mars-Plan-01.jpg" width="500">
 
 # Module 12 Challenge Submission - Web Scraping Challenge
 
@@ -27,7 +22,7 @@ Ensure you have Python 3.8+ installed on your system. You can check your Python 
 ```python --version```
 
 You will also need the following libraries:
->``
+
 - Pandas
 - beautifulsoup4==4.10.0
 - bs4==0.0.1
@@ -38,7 +33,7 @@ You will also need the following libraries:
 - matplotlib==3.4.3
 - pandas==1.3.3
 - seaborn==0.11.2
-``
+
 
 ### Project Deliverables
 
